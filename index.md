@@ -9,15 +9,15 @@ Prof. Dr. Jörg Brunsmann
 <br/>
 <br/>
 <br/>
-## Software Engineering
-### Kapitel 1. Einleitung
+## Software Engineering  
+### Kapitel 1. Einleitung  
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-***
-FH Bielefeld | Software Engineering | Seite 1
+***  
+FH Bielefeld | Software Engineering | Seite 1  
 <br/>
 <br/>
 <br/>
@@ -33,8 +33,8 @@ FH Bielefeld | Software Engineering | Seite 1
 <br/>
 <br/>
 <br/>
-## Begrifflichkeit:
-### „Software Engineering“ = „Softwaretechnik“
+## Begrifflichkeit:  
+### „Software Engineering“ = „Softwaretechnik“  
 <br/>
 <br/>
 <br/>
@@ -42,7 +42,7 @@ FH Bielefeld | Software Engineering | Seite 1
 <br/>
 <br/>
 <br/>
-___
+***  
 FH Bielefeld | Software Engineering | Seite 2
 <br/>
 <br/>
@@ -52,9 +52,9 @@ FH Bielefeld | Software Engineering | Seite 2
 
 
 
-___
+***  
 <br/>
-##**Lernziele für heute**
+## **Lernziele für heute**  
 <br/>
 #### - Verstehen, warum Software schwer zu entwickeln ist  
 #### - Erklären können, warum Softwaretechnik notwendig ist  
@@ -64,7 +64,7 @@ ___
 #### -Verstehen, dass zur Softwareentwicklung mehr gehört als die reine Programmierung
 <br/>
 <br/>
-___
+***  
 FH Bielefeld | Software Engineering | Seite 3
 
 
@@ -82,6 +82,5 @@ Software ist ein umfassenderer Begriff als „Programm“
 Software besteht ebenfalls aus der zugehörigen Dokumentation
 
 Software enthält alle Elemente, die für den Betrieb notwendig sind. z.B. Datenbankskripte, Dokumentation, Betriebshandbücher, usw.
-
 
 
