@@ -106,9 +106,11 @@ FH Bielefeld | Software Engineering | Seite 4
 
 
 ***
+<br/>
+
 ## Was ist Software?
 
-###- Die Software ist nur die Spitze des Eisbergs des Software-Produkts
+### - Die Software ist nur die Spitze des Eisbergs des Software-Produkts
 
 ### Software ist ein umfassenderer Begriff als „Programm“
 
