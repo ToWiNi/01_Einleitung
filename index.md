@@ -43,6 +43,7 @@ FH Bielefeld | Software Engineering | Seite 1  
 <br/>
 <br/>
 <br/>
+
 ***
 FH Bielefeld | Software Engineering | Seite 2
 <br/>
@@ -65,23 +66,46 @@ FH Bielefeld | Software Engineering | Seite 2
 #### -Verstehen, dass zur Softwareentwicklung mehr gehört als die reine Programmierung
 <br/>
 <br/>
+
 ***
 FH Bielefeld | Software Engineering | Seite 3
+<br/>
+<br/>
+<br/>
 
 
 
 
+
+***
+<br/>
+<br/>
+<br/>
+#Was ist Software?
+<br/>
+<br/>
+<br/>
+
+***
+FH Bielefeld | Software Engineering | Seite 4
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+***
 Was ist Software?
-
-
-Was ist Software?
-
 Die Software ist nur die Spitze des Eisbergs des Software-Produkts
-
 Software ist ein umfassenderer Begriff als „Programm“
-
 Software besteht ebenfalls aus der zugehörigen Dokumentation
-
 Software enthält alle Elemente, die für den Betrieb notwendig sind. z.B. Datenbankskripte, Dokumentation, Betriebshandbücher, usw.
+<br/>
 
-
+***
+FH Bielefeld | Software Engineering | Seite 5
+<br/>
+<br/>
+<br/>
