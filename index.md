@@ -1,15 +1,19 @@
 ***
 <br/>
 <br/>
+
 **Fachhochschule Bielefeld**  
 <br/>
+
 **Softwaretechnik und Programmierung**  
 <br/>
 Prof. Dr. Jörg Brunsmann
 <br/>
 <br/>
 <br/>
+
 ## Software Engineering  
+
 ### Kapitel 1. Einleitung  
 <br/>
 <br/>
@@ -34,7 +38,9 @@ FH Bielefeld | Software Engineering | Seite 1  
 <br/>
 <br/>
 <br/>
+
 ## Begrifflichkeit:  
+
 ### „Software Engineering“ = „Softwaretechnik“  
 <br/>
 <br/>
@@ -56,8 +62,10 @@ FH Bielefeld | Software Engineering | Seite 2
 
 ***
 <br/>
+
 ## **Lernziele für heute**  
 <br/>
+
 #### - Verstehen, warum Software schwer zu entwickeln ist  
 #### - Erklären können, warum Softwaretechnik notwendig ist  
 #### - Unterschiedliche Arten von Software kennen  
@@ -81,6 +89,7 @@ FH Bielefeld | Software Engineering | Seite 3
 <br/>
 <br/>
 <br/>
+
 #Was ist Software?
 <br/>
 <br/>
