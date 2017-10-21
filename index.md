@@ -1,10 +1,6 @@
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
-
 
 <p align="center">
-  <img width="760" height="300" src="bild_eisberg.png">
+  <img  src="bild_eisberg.png">
 </p>
 
 # that is the top of the file markdown.md
