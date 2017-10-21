@@ -107,12 +107,16 @@ FH Bielefeld | Software Engineering | Seite 4
 
 ***
 ## Was ist Software?
+
 ###- Die Software ist nur die Spitze des Eisbergs des Software-Produkts
+
 ### Software ist ein umfassenderer Begriff als „Programm“
-###- Software besteht ebenfalls aus der zugehörigen Dokumentation
-###- Software enthält alle Elemente, die für den Betrieb notwendig sind. z.B. Datenbankskripte, Dokumentation, Betriebshandbücher, usw.
+
+### - Software besteht ebenfalls aus der zugehörigen Dokumentation
+### - Software enthält alle Elemente, die für den Betrieb notwendig sind. z.B. Datenbankskripte, Dokumentation, Betriebshandbücher, usw.
+
 ![Bildtext](./bild_eisberg.jpg "Bildtitel")
-![Das ist das alt-Attribut für mein Bild](http://imgur.com/myimage.jpg "Hier noch ein title-Attribut")
+![Das ist das alt-Attribut für mein Bild](http://www.strassenschilder.de/images/signs/vorfahrt-gewaehren.jpg "Hier noch ein title-Attribut")
 
 ***
 FH Bielefeld | Software Engineering | Seite 5
