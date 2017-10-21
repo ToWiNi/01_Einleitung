@@ -4,6 +4,6 @@
 
 Prof. Dr. Jörg Brunsmann
 
-##Software Engineering
+## Software Engineering
 
-###Kapitel 1. Einleitung
+### Kapitel 1. Einleitung
