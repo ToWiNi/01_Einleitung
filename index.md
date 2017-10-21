@@ -117,6 +117,7 @@ FH Bielefeld | Software Engineering | Seite 4
 
 ![Bildtext](./bild_eisberg.jpg "Bildtitel")
 ![Das ist das alt-Attribut für mein Bild](http://www.strassenschilder.de/images/signs/vorfahrt-gewaehren.jpg "Hier noch ein title-Attribut")
+![alt text](https://raw.githubusercontent.com/towini/01_einleitung/master/bild_eisberg.png)
 
 ***
 FH Bielefeld | Software Engineering | Seite 5
