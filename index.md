@@ -119,6 +119,7 @@ FH Bielefeld | Software Engineering | Seite 4
 
 ![eisberg](https://github.com/ToWiNi/01_Einleitung/blob/master/bild_eisberg.png)
 ![eisberg](https://github.com/ToWiNi/01_Einleitung/blob/master/bild_eisberg.png)
+![eisberg](bild_eisberg.png)
 
 ***
 FH Bielefeld | Software Engineering | Seite 5
