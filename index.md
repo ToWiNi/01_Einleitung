@@ -1,46 +1,69 @@
-___
-
-**Fachhochschule Bielefeld**
-
-**Softwaretechnik und Programmierung**
-
+***
+<br/>
+<br/>
+**Fachhochschule Bielefeld**  
+<br/>
+**Softwaretechnik und Programmierung**  
+<br/>
 Prof. Dr. Jörg Brunsmann
-
-## Software Engineering##
-
-### Kapitel 1. Einleitung###
-
-___
+<br/>
+<br/>
+<br/>
+## Software Engineering
+### Kapitel 1. Einleitung
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+***
 FH Bielefeld | Software Engineering | Seite 1
+<br/>
+<br/>
+<br/>
 
-___
 
 
+
+
+***
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Begrifflichkeit:
-
 ### „Software Engineering“ = „Softwaretechnik“
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ___
 FH Bielefeld | Software Engineering | Seite 2
+<br/>
+<br/>
+<br/>
+
+
+
 
 
 ___
-
-
-
-**Lernziele für heute**
-
-
-Verstehen, warum Software schwer zu entwickeln ist
-Erklären können, warum Softwaretechnik notwendig ist
-Unterschiedliche Arten von Software kennen
-Wissen, welche typischen Phasen in einem Softwareprojekt existieren
-Verständnis für Rollen in einem Softwareprojekt entwickeln
-
-Verstehen, dass zur Softwareentwicklung mehr gehört als die reine Programmierung
-
-
+<br/>
+##**Lernziele für heute**
+<br/>
+#### - Verstehen, warum Software schwer zu entwickeln ist  
+#### - Erklären können, warum Softwaretechnik notwendig ist  
+#### - Unterschiedliche Arten von Software kennen  
+#### - Wissen, welche typischen Phasen in einem Softwareprojekt existieren  
+#### - Verständnis für Rollen in einem Softwareprojekt entwickeln  
+#### -Verstehen, dass zur Softwareentwicklung mehr gehört als die reine Programmierung
+<br/>
+<br/>
 ___
 FH Bielefeld | Software Engineering | Seite 3
 
@@ -53,3 +76,12 @@ Was ist Software?
 Was ist Software?
 
 Die Software ist nur die Spitze des Eisbergs des Software-Produkts
+
+Software ist ein umfassenderer Begriff als „Programm“
+
+Software besteht ebenfalls aus der zugehörigen Dokumentation
+
+Software enthält alle Elemente, die für den Betrieb notwendig sind. z.B. Datenbankskripte, Dokumentation, Betriebshandbücher, usw.
+
+
+
