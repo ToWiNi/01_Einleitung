@@ -16,7 +16,7 @@ Prof. Dr. Jörg Brunsmann
 <br/>
 <br/>
 <br/>
-***  
+***
 FH Bielefeld | Software Engineering | Seite 1  
 <br/>
 <br/>
@@ -42,7 +42,7 @@ FH Bielefeld | Software Engineering | Seite 1  
 <br/>
 <br/>
 <br/>
-***  
+***
 FH Bielefeld | Software Engineering | Seite 2
 <br/>
 <br/>
@@ -52,7 +52,7 @@ FH Bielefeld | Software Engineering | Seite 2
 
 
 
-***  
+***
 <br/>
 ## **Lernziele für heute**  
 <br/>
@@ -64,7 +64,7 @@ FH Bielefeld | Software Engineering | Seite 2
 #### -Verstehen, dass zur Softwareentwicklung mehr gehört als die reine Programmierung
 <br/>
 <br/>
-***  
+***
 FH Bielefeld | Software Engineering | Seite 3
 
 
