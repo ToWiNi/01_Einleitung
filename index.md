@@ -117,7 +117,7 @@ FH Bielefeld | Software Engineering | Seite 4
 ### - Software besteht ebenfalls aus der zugehörigen Dokumentation
 ### - Software enthält alle Elemente, die für den Betrieb notwendig sind. z.B. Datenbankskripte, Dokumentation, Betriebshandbücher, usw.
 
-![alt text](https://github.com/ToWiNi/01_Einleitung/blob/master/bild_eisberg.png)
+![eisberg](https://github.com/ToWiNi/01_Einleitung/blob/master/bild_eisberg.png)
 
 ***
 FH Bielefeld | Software Engineering | Seite 5
