@@ -1,5 +1,5 @@
 ***
-# Softwarekosten
+#Softwarekosten
 
 ## Die wichtigsten Kostenarten während der Softwareentwicklung sind:
 ### - Personalkosten (mit Abstand der größte Posten)<br>- Lizenzkosten für zugekaufte Softwarekomponenten<br>- anteilige Kosten für Entwicklungsumgebung (Hardware, Softwaretools<br>- Auslagerungen/ Zukauf von Entwicklungsleistungen<br>- externe Prüfungen<br>- Recherchekosten (Normenrecherche, Urheberrechte...)<br>- Sonstiges (Büromaterial, Reisekosten, usw.)
